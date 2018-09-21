@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-DevcampViewTool::Renderer.copyright 'Manuel Guzman', 'All rights reserved'
+MgznvViewTool::Renderer.copyright 'Manuel Guzman', 'All rights reserved'
 ```
 ## Development
 
